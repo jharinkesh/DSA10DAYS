@@ -49,7 +49,7 @@ public class ArrayLib {
     // int[] a = {11, 8, 5, 1, 7};
     Custom[] a = {new Custom(5), new Custom(3), new Custom(8)};
     // Arrays.sort(a);
-    Arrays.sort(a, (x, y) -> y.data - x.data);
+    // Arrays.sort(a, (x, y) -> y.data - x.data);
     // Arrays.sort(a, 0, 2);
     System.out.println(Arrays.toString(a));
   }

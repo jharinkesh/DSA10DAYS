@@ -8,7 +8,7 @@ public class BST {
     // TreeTraversal.levelOrder(root);
     // System.out.println(search(root, 8));
     // System.out.println(min(root));
-    System.out.println(getParent(root, 8));
+    //System.out.println(getParent(root, 8));
   }
 
   static Node getParent(Node root, int key) {

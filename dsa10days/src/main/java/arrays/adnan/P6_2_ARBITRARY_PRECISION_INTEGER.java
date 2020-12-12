@@ -9,7 +9,7 @@ public class P6_2_ARBITRARY_PRECISION_INTEGER {
   public static void main(String[] args) {
     List<Integer> a = new ArrayList<>(Arrays.asList(9, 9, 7, 9));
     update(a);
-    System.out.println(a);
+    //System.out.println(a);
   }
 
   static List<Integer> update(List<Integer> a) {

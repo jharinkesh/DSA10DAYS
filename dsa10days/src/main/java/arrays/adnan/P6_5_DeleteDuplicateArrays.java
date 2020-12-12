@@ -10,7 +10,7 @@ public class P6_5_DeleteDuplicateArrays {
     List<Integer> list = new ArrayList<>(Arrays.asList(1, 6, 2, 4, 5, 6, 8, 1, 5));
 
     deleteDuplicates(list);
-    System.out.println(list);
+    //System.out.println(list);
   }
 
   public static void deleteDuplicates(List<Integer> a) {
